@@ -32,4 +32,6 @@ Tools and services used on this page
 - [explorer.btc21.org](https://explorer.btc21.org) — Bitcoin explorer
 
 ## Donate
-[donate.pyzhyk.org](https://donate.pyzhyk.org)
+![](https://pyzhyk.org/img/14s7eocgkPRXxbwMrjykmpkZixWDu5rGiY-256.png)
+
+BTC [14s7eocgkPRXxbwMrjykmpkZixWDu5rGiY](bitcoin:14s7eocgkPRXxbwMrjykmpkZixWDu5rGiY)
